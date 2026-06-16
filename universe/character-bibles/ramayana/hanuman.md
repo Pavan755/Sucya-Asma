@@ -113,3 +113,43 @@ Hanuman_v1
 
 Status:
 Draft
+
+## Identity Principles
+
+### Age Philosophy
+
+Hanuman is portrayed as physically youthful and emotionally mature.
+
+As one of the Chiranjeevis, he embodies timeless vitality guided by ancient wisdom.
+
+---
+
+### Fur Philosophy
+
+Hanuman utilizes minimal stylized fur texture.
+
+The goal is readability, production efficiency, and documentary consistency.
+
+---
+
+### Mace Philosophy
+
+The mace is used contextually.
+
+Hanuman's devotion defines him more than his weaponry.
+
+---
+
+### Tail Philosophy
+
+The tail acts as a subtle emotional indicator.
+
+It should enhance storytelling without becoming exaggerated.
+
+---
+
+### Divine Aura Philosophy
+
+Divine effects are reserved for spiritually significant or miraculous moments.
+
+Ordinary scenes should maintain grounded realism.
