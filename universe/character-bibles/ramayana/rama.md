@@ -333,3 +333,138 @@ Sucya-Asma Production Team
 
 Notes:
 This document should evolve carefully. Major revisions require review before adoption across the Sucya-Asma universe.
+
+---
+
+---
+
+# Reference Prompt
+
+Create a professional character reference sheet for Rama from the Ramayana, designed for an educational mythology documentary animation project called Sucya-Asma.
+
+Art Style:
+Ancient Indian documentary illustration with cinematic composition, subtle realism, warm lighting, and respectful traditional aesthetics. Inspired by temple sculptures, Amar Chitra Katha, Indian miniature paintings, and palm-leaf manuscript traditions, but presented with modern visual clarity.
+
+Character Identity:
+Rama should embody strength guided by compassion. He must appear calm, wise, approachable, protective, dignified, and emotionally grounded.
+
+Physical Appearance:
+Male, approximately 28–35 years old.
+Athletic but graceful build.
+Natural dusky complexion with subtle symbolic bluish undertones.
+Dark shoulder-length hair.
+Kind, patient eyes that convey inner strength.
+Balanced facial proportions with a strong yet approachable presence.
+
+Attire:
+Forest-period attire appropriate for the Rama Setu era.
+Simple traditional garments.
+Minimal ornaments.
+Functional appearance suited to exile and leadership.
+
+Accessories:
+Kodanda bow.
+Traditional quiver.
+Consistent tilaka design.
+Simple ornaments.
+
+Divine Representation:
+Subtle golden highlights.
+Presence through stillness and compassion rather than spectacle.
+Avoid excessive glowing effects.
+
+Expressions Sheet:
+1. Compassion
+2. Leadership
+3. Reflection
+4. Determination
+
+Character Turnaround:
+Front view.
+Three-quarter view.
+Side view.
+Back view.
+
+Accessory Sheet:
+Detailed presentation of Kodanda bow, quiver, tilaka pattern, and attire elements.
+
+Visual Priorities:
+Respectful representation.
+Emotional recognizability.
+Documentary clarity.
+Child-friendly approachability.
+Historical inspiration over fantasy.
+
+Avoid:
+Anime aesthetics,
+superhero physiques,
+western fantasy armor,
+science fiction elements,
+hyper-muscular bodies,
+modern clothing,
+cartoon exaggeration,
+aggressive facial expressions,
+excessive divine effects.
+
+Output Format:
+Professional animation studio reference sheet suitable for maintaining character consistency across multiple productions.
+
+---
+
+# Approval Checklist
+
+A Rama design may only be approved if all answers are YES.
+
+## Recognition Test
+
+Would most viewers immediately identify him as Rama?
+
+Status:
+[ ]
+
+---
+
+## Emotional Test
+
+Would a child perceive him as trustworthy and kind?
+
+Status:
+[ ]
+
+---
+
+## Respect Test
+
+Would traditional audiences consider the portrayal dignified?
+
+Status:
+[ ]
+
+---
+
+## Documentary Test
+
+Does he feel grounded rather than fantastical?
+
+Status:
+[ ]
+
+---
+
+## Consistency Test
+
+Can this design work across hundreds of future episodes?
+
+Status:
+[ ]
+
+---
+
+Final Approval Status:
+
+[ ] APPROVED
+
+[ ] REVISE
+
+Approved Version:
+TBD
