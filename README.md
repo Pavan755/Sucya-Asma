@@ -7,7 +7,7 @@ Sucya-Asma is a small, growing studio for culturally respectful, source-aware an
 ## Start here
 
 1. Read [the project vision](docs/VISION.md) and [the production workflow](docs/PRODUCTION_WORKFLOW.md).
-2. See the staged [roadmap](docs/ROADMAP.md), [toolset choices](docs/TOOLSET.md), and [automation plan](docs/AUTOMATION_ARCHITECTURE.md).
+2. See the staged [roadmap](docs/ROADMAP.md), [toolset choices](docs/TOOLSET.md), [production roles](docs/PRODUCTION_ROLES.md), and [automation plan](docs/AUTOMATION_ARCHITECTURE.md).
 3. Follow [the character workflow](docs/CHARACTER_WORKFLOW.md) before generating production scenes.
 4. Use the existing [Rama](universe/character-bibles/ramayana/rama.md) and [Hanuman](universe/character-bibles/ramayana/hanuman.md) bibles as drafts; approved snapshots are versioned separately.
 5. Review the pilot folder at `stories/development/the-squirrel-and-ramas-bridge/`. It is framed as a Ramayana-associated traditional narrative, not a direct passage from the Valmiki Ramayana. Its source review needs inspectable citations before public release.
