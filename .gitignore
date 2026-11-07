@@ -1,0 +1,35 @@
+# Local credentials and environment files
+.env
+.env.*
+!.env.example
+secrets/
+credentials/
+
+# Python / notebook scratch
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Local model weights and caches
+*.safetensors
+*.ckpt
+*.pth
+*.pt
+*.gguf
+models/
+model-cache/
+
+# Production media: store outside Git in Drive/MEGA
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.wav
+*.flac
+*.aiff
+*.psd
+*.blend1
+renders/
+exports/
