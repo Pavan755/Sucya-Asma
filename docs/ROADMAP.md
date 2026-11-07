@@ -8,6 +8,7 @@
 - [ ] Confirm scope: the current repository is a Ramayana-inspired animated series, distinct from a general historical documentary workflow.
 - [ ] Create the separate Gmail-linked Drive workspace; confirm quota and recovery options.
 - [ ] Confirm MEGA quota and use it as archive copy, not a competing live workspace.
+- [x] Establish a zero-budget rule and service interruption fallbacks in [the cost and continuity policy](COST_AND_CONTINUITY_POLICY.md).
 - [x] Record available GPU and disk: RTX 3050 Laptop GPU, 6 GB VRAM; approximately 235 GB free on C:. System RAM was unavailable to the check.
 
 **Exit:** canonical project root, storage map, access/recovery plan, and clear series scope.
