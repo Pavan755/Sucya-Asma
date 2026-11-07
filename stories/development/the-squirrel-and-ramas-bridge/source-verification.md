@@ -2,7 +2,9 @@
 
 ## Story Status
 
-Verified for adaptation.
+**Draft research note — citation review required before approval or public release.**
+
+The statements below are inherited from the earlier project draft. This file currently does not cite an edition, passage, scholarly source, or documented regional retelling for them. Treat the summary and source classification as hypotheses to check, not as completed verification.
 
 ---
 
@@ -12,21 +14,21 @@ A small squirrel contributes to the construction of Rama Setu by carrying grains
 
 ---
 
-## Primary Source Classification
+## Textual Source Review
 
-This episode is not explicitly found in the commonly accepted versions of the Valmiki Ramayana.
+The earlier draft states that this episode is not explicitly found in commonly accepted versions of the Valmiki Ramayana. No version/edition/translation or passage-level search record is cited here, so that claim is **not yet verified in this repository**. Before using a negative textual claim, record the editions consulted, search method/limits, and exact references. Avoid implying that every recension or retelling has been checked.
 
 ---
 
 ## Tradition Classification
 
-Beloved Ramayana-associated tradition preserved through devotional retellings, oral storytelling, and regional narrative traditions.
+The earlier draft describes this as a Ramayana-associated devotional/oral/regional tradition. Add inspectable references to specific retellings, community accounts, or scholarship and note variation. Until then, the classification remains provisional.
 
 ---
 
 ## Adaptation Policy
 
-Sucya-Asma may adapt this story provided that it is introduced as a traditional Ramayana-associated narrative and not as a direct account from the Valmiki Ramayana.
+If the source review supports this framing, introduce the story as a traditional Ramayana-associated narrative and do not present it as a direct account from a named text unless a precise citation supports that claim.
 
 ---
 
@@ -48,7 +50,14 @@ The underlying traditional narrative is part of long-standing cultural heritage 
 
 ## Sucya-Asma Verification Status
 
-APPROVED FOR ADAPTATION.
+**NEEDS SOURCE REVIEW — NOT APPROVED FOR PUBLIC RELEASE.**
 
-Verification Level:
-Traditional Narrative.
+Verification level: provisional traditional-narrative classification.
+
+Required before approval:
+
+- [ ] Identify the exact textual editions checked and record passage references/search limits.
+- [ ] Cite documented retellings or scholarship for the squirrel episode and regional variations.
+- [ ] Support the palm-squirrel stripe tradition with a reliable source or omit the explanatory claim.
+- [ ] Record any modern translation/retelling rights separately from the underlying traditional motif.
+- [ ] Human reviewer records approval and date.
